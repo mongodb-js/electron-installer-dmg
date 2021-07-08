@@ -41,6 +41,18 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
+"@types/appdmg@0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@types/appdmg/-/appdmg-0.5.1.tgz#aef43f758f73654176047dfce9387bdbb8e8a3f7"
+  integrity sha512-4J4PaChabmFplb+W2TYc3mlkd6Cfnc6RFphs2XZU6y8tigx22H8kEHQokWiZ+oRl3JuDpt1iQwblzz5tmfDFrQ==
+  dependencies:
+    "@types/node" "*"
+
+"@types/node@*":
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.0.1.tgz#70cedfda26af7a2ca073fdcc9beb2fff4aa693f8"
+  integrity sha512-hBOx4SUlEPKwRi6PrXuTGw1z6lz0fjsibcWCM378YxsSu/6+C30L6CR49zIBKHiwNWCYIcOLjg4OHKZaFeLAug==
+
 acorn-jsx@^5.0.0:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.0.1.tgz#32a064fd925429216a09b141102bfdd185fae40e"
